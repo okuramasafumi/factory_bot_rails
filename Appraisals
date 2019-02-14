@@ -21,4 +21,5 @@ end
 appraise "rails6.0" do
   gem "rails", "~> 6.0.0.beta1"
   gem "sqlite3", "~> 1.3.6"
+  gem "puma", "~> 3.11"
 end

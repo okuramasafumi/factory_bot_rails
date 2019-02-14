@@ -18,5 +18,6 @@ gem "therubyrhino", platforms: :jruby
 gem "sqlite3", "~> 1.3.6"
 gem "rubocop", "0.54", require: false
 gem "rails", "~> 6.0.0.beta1"
+gem "puma", "~> 3.11"
 
 gemspec name: "factory_bot_rails", path: "../"
